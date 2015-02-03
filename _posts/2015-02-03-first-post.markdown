@@ -16,4 +16,4 @@ Currently I am working on a three.js tutorial that will help me structure my wor
 and am working on an outline specification as well.
 
 The current version, which is a simple rotating cube is located at:
-http://krf12.github.io/Renderinginvisibility
+[krf12's Github Project Page](http://krf12.github.io/RenderingInvisibility)
