@@ -2,9 +2,10 @@
 title: Rendering Invisibility Project Diary
 email: krf@aber.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  This is where I will keep track of the progress of my Major Project for my
-  Undergraduate Course. My project is about using WebGL to render a realistic
-  invisibility cloak using recent research.
+  This is a blog created to track progress within my Major Project at Aberystwyth
+  University. My project title is Rendering Invisibility and I am looking into
+  how an invisibiltiy cloak can be modelled using modern theories about practical
+  invisibility cloaks.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://krf12.github.io/Renderinginvisibility" # the base hostname & protocol for your site
 twitter_username: HugCushionKit
