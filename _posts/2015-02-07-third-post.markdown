@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Three.js - Transparent Sphere"
-date:   2015-02-05 12:45:00
+date:   2015-02-07 12:45:00
 categories: project research
 ---
 
