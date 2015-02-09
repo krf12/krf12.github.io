@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Three.js - Transparent Sphere"
+title:  "Polarization Research and Refracting Sphere"
 date:   2015-02-09 17:18:00
 categories: project refraction polarization
 ---
