@@ -18,8 +18,10 @@ and as far as I can tell, it is used to return a vector based on two vectors and
 ray tracer in the shader code, or it could be used to work out the refraction of the materials. I will have to look into this a little more.
 
 Today I have chosen to start working on my first promised deliverable : The design specification. As I have been working on research and
-prototyping, it seemed like a good time to start working on a formal design. So far I have written the introfucation and the assumptions and
+prototyping, it seemed like a good time to start working on a formal design. So far I have written the introduction and the assumptions and
 considerations I have needed to make for this project.
 
 I shall continue working on both the above tomorrow and am eager to show off my project on the 3rd March to the group, as I am hoping it will
 give me some confidence that I am working towards the right goal.
+
+I am also including the link to latest version, which includes a sphere with multiple layers, with different refraction ratios. I think I may need to deal with the sphere's natural refraction which causes an image to appear upside down, though this could also cause the sphere to be unnatural. I will discuss this on Friday with my supervisor. The current link to the latest version is : [Version Two](http://krf12.github.io/RenderingInvisibility/pages/version2.html)
