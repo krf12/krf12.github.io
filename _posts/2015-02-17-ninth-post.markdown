@@ -5,7 +5,7 @@ date:   2015-02-17 18:34:00
 categories: project raytracing design
 ---
 
-I have two things to discuss in the post today, my progress with ray tracing and the beginnings of my design specfication.
+I have two things to discuss in the post today, my progress with ray tracing and the beginnings of my design specification.
 
 I had found a good three.js ray tracing renderer example yesterday and attempted to integrate it with my current project.
 Unfortunately, under the duress of the apparent intensiveness of the model I had built so far, the ray tracer proceeded to
