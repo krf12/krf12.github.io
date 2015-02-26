@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Completed Design Specification, Structure of cloak and Beginning of Ray Tracing"
-date:   2015-02-19 18:33:00
+date:   2015-02-24 8:21:00
 categories: project raytracing design cloak
 ---
 
