@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Update for Model"
-date:   2015-02-26 19:38:00
+date:   2015-03-02 19:38:00
 categories: project cloak refractionmaps
 ---
 
@@ -12,4 +12,4 @@ towards the outside of the sphere. Instead of a similar distortion to the other 
 I will have to work through this tomorrow and see if there is perhaps something wrong with my calculations. I am also
 thinking of doing this with the shell structure. This might help me figure out the refractions as I can do it step by step.
 
-My sandbox for the first model can be found here : [Sandbox](http://krf12.github.io/RenderingInvisibility/pages/sandbox.html)
+My sandbox for the first model can be found here : [Sandbox](http://krf12.github.io/RenderingInvisibility/pages/solidsphere.html)
